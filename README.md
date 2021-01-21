@@ -42,4 +42,4 @@ I love to work on projects, that are about education. Currently I work on [lea.o
 
 ## Sponsor me
 
-If you like my work and want to support me to continue, you can send a tip via paypal.me/kuesterjan
+If you like my work and want to support me to continue, you can send a tip via https://paypal.me/kuesterjan
