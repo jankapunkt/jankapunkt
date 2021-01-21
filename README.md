@@ -30,14 +30,23 @@ I love to work on projects, that are about education. Currently I work on [lea.o
 ## Articles and publicatins
 
 [Why choose Meteor (or not) for your next project?](https://dev.to/jankapunkt/why-choose-meteor-or-not-for-your-next-project-1gnh)
+
 [Meteor 5 minutes setup for newcomers](https://dev.to/jankapunkt/meteor-5-minutes-setup-for-newcomers-1aga)
+
 [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
+
 [Meteor and standard lint](https://dev.to/jankapunkt/meteor-and-standard-lint-gg7)
+
 [How stringify Proxy to JSON](https://dev.to/jankapunkt/how-stringify-proxy-to-json-10oe)
+
 [Async Meteor Method calls](https://dev.to/jankapunkt/async-meteor-method-calls-24f9)
+
 [Bootstrapping an Admin account in Meteor](https://dev.to/jankapunkt/bootstrapping-an-admin-account-in-meteor-408b)
+
 [Yet another NPM package template](https://dev.to/jankapunkt/yet-another-npm-package-template-270k)
+
 [How to write a great switch statement in JavaScript](https://dev.to/jankapunkt/how-to-write-a-great-switch-statement-in-javascript-265)
+
 [ES6 classes with private members](https://dev.to/jankapunkt/es6-classes-with-private-members-144d)
 
 ## Sponsor me
