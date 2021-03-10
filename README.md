@@ -52,4 +52,7 @@ I am also a constant contributor around Meteor and it's packages ecosystem.
 
 ## Sponsor me
 
-If you like my work and want to support me to continue, you can send a tip via https://paypal.me/kuesterjan
+If you like my work and want to support me to continue, you can send a tip via 
+
+- PayPal: https://paypal.me/kuesterjan
+- Bitcoin: bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn
