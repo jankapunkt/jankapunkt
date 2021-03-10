@@ -55,4 +55,4 @@ I am also a constant contributor around Meteor and it's packages ecosystem.
 If you like my work and want to support me to continue, you can send a tip via 
 
 - PayPal: https://paypal.me/kuesterjan
-- Bitcoin: bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn
+- Bitcoin: [bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn](https://explorer.btc.com/btc/address/bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn)
