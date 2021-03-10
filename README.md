@@ -1,8 +1,9 @@
-## Jan's coding profile 👋
+## Hey there 👋
 
-I am all about JavaScript <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JavaScript' height='16'> + Meteor [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor' height='16'>](https://meteor.com)
+My name is Jan Küster and I am all about JavaScript <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JavaScript' height='16'> + Meteor [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor' height='16'>](https://meteor.com)
 
 I love to work on projects, that are about education. Currently I work on [lea.online, a diagnostic and learning platform for German functional illiterates](https://github.com/leaonline). The target group are employed adults, which are limited in their career path due to low fundamental literacy skills.
+I am also a constant contributor around Meteor and it's packages ecosystem.
 
 ## Tech stack 
 
