@@ -30,6 +30,8 @@ I am also a constant contributor around Meteor and it's packages ecosystem.
 
 ## Articles and publicatins
 
+This is a curatest list of some of my articles on [dev.to](https://dev.to/).
+
 [Why choose Meteor (or not) for your next project?](https://dev.to/jankapunkt/why-choose-meteor-or-not-for-your-next-project-1gnh)
 
 [Meteor 5 minutes setup for newcomers](https://dev.to/jankapunkt/meteor-5-minutes-setup-for-newcomers-1aga)
