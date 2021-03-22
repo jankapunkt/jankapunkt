@@ -52,7 +52,9 @@ I am also a constant contributor around Meteor and it's packages ecosystem.
 
 ## Sponsor me
 
-If you like my work and want to support me to continue, you can send a tip via 
+If you like my work and you want to support me, you can send a tip via 
 
 - PayPal: https://paypal.me/kuesterjan
-- Bitcoin: [bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn](https://explorer.btc.com/btc/address/bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn)
+- Dogecoin: DL9aPBgfw6VTZ7gi4xfqazMFUXxvRJq61Y
+- Cardano: addr1q9zmhg6dxq0jsptwfu07d9j3azs5a459u462ssa8yc04nuyzm9l0ma7rfqgp8v5q8ch86q36rp05s4ra8gu47kkwrg7q747s8d
+- Bitcoin: bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn
