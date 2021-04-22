@@ -54,9 +54,11 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
 ## Sponsor me
 
-If you like my work and you want to support me, you can send a tip via 
+If you like my work and you want to support me, you can send me a tip via 
 
 - PayPal: https://paypal.me/kuesterjan
 - Dogecoin: DL9aPBgfw6VTZ7gi4xfqazMFUXxvRJq61Y
 - Cardano: addr1q9zmhg6dxq0jsptwfu07d9j3azs5a459u462ssa8yc04nuyzm9l0ma7rfqgp8v5q8ch86q36rp05s4ra8gu47kkwrg7q747s8d
+- Ravencoin: RAz6PYnD9Y4Dzd4nwHMjRi49HGdbjkdwAz
+- Monero: 46f2nQQgQZeLF3TYpRXPenQSZ6EBTuBioTnhBhY5CfyNGQnpyrMwVhYNERLzDVoHzaYHN4jzqK85aV2PSJQvzAcDSBnrE9S
 - Bitcoin: bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn
