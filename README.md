@@ -25,27 +25,58 @@ I am also a constant contributor around Meteor and it's packages ecosystem.
 
 This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
+### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='meteor' height='16'> Articles on Meteor
+
+**Beginners**
+
 [Why choose Meteor (or not) for your next project?](https://dev.to/jankapunkt/why-choose-meteor-or-not-for-your-next-project-1gnh)
 
 [Meteor 5 minutes setup for newcomers](https://dev.to/jankapunkt/meteor-5-minutes-setup-for-newcomers-1aga)
 
 [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
+[Async Meteor Method calls](https://dev.to/jankapunkt/async-meteor-method-calls-24f9)
+
+**Advanced**
+
+[Plugin architecture with Meteor](https://dev.to/jankapunkt/plugin-architecture-with-meteor-4jl4)
+
+[Microservices with Meteor](https://dev.to/jankapunkt/microservices-with-meteor-40la)
+
 [Meteor browser bundle and Node-Stubs - beware what you import ](https://dev.to/jankapunkt/meteor-browser-bundle-and-node-stubs-beware-what-you-import-342f)
 
 [Meteor and standard lint](https://dev.to/jankapunkt/meteor-and-standard-lint-gg7)
 
-[How stringify Proxy to JSON](https://dev.to/jankapunkt/how-stringify-proxy-to-json-10oe)
-
-[Async Meteor Method calls](https://dev.to/jankapunkt/async-meteor-method-calls-24f9)
-
 [Bootstrapping an Admin account in Meteor](https://dev.to/jankapunkt/bootstrapping-an-admin-account-in-meteor-408b)
+
+
+### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='16'> Articles on JavaScript
+
+[How to mess up your JavaScript code like a boss **MUST READ**](https://dev.to/jankapunkt/how-to-mess-up-your-javascript-code-like-a-boss-pa9)
+
+[Make text fit its parent size using JavaScript](https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40)
+
+[Converting my OTF font into multiple web fonts with this bash script](https://dev.to/jankapunkt/converting-my-otf-font-into-multiple-web-fonts-with-this-bash-script-m1l)
+
+[Prevent infinite loops in JavaScript](https://dev.to/jankapunkt/prevent-infinite-loops-in-javascript-4n5o)
+
+[ES6 classes with private members](https://dev.to/jankapunkt/es6-classes-with-private-members-144d)
 
 [Yet another NPM package template](https://dev.to/jankapunkt/yet-another-npm-package-template-270k)
 
 [How to write a great switch statement in JavaScript](https://dev.to/jankapunkt/how-to-write-a-great-switch-statement-in-javascript-265)
 
-[ES6 classes with private members](https://dev.to/jankapunkt/es6-classes-with-private-members-144d)
+[How stringify Proxy to JSON](https://dev.to/jankapunkt/how-stringify-proxy-to-json-10oe)
+
+[Stubbing jQuery with sinon](https://dev.to/jankapunkt/stubbin-jquery-with-sinon-adp)
+
+
+
+### Articles with Coding-Puzzles
+
+[Let's solve a one-liner code puzzle](https://dev.to/jankapunkt/let-s-solve-a-one-liner-code-puzzle-2351)
+
+[One-Liner Puzzle - Fill Array with indices](https://dev.to/jankapunkt/one-liner-puzzle-fill-array-with-indices-fk)
 
 
 ## Social
