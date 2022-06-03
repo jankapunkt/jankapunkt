@@ -10,15 +10,16 @@ I am also a constant contributor around Meteor and it's packages ecosystem.
 |      | name | values |
 | :--: | ---- | ------ |
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='Linux' height='16'>|OS|Linux ([Xubuntu](https://xubuntu.org/)), MacOS|
-|<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='gnu-bash' height='16'>|Shell|[Bash](https://www.gnu.org/software/bash/)|
+|<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='zsh' height='16'>|Shell|[ZSH](https://github.com/zsh-users/zsh) + [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='16'>|IDE|[WebStorm (JetBrains)](https://www.jetbrains.com/webstorm/)|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='16'>|Code|[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='16'>|Platform|[NodeJS](https://nodejs.org/)|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='meteor' height='16'>|Framework|[Meteor](https://www.meteor.com/)|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='16'>|DB|[MongoDB](https://www.mongodb.com/)|
-|<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mdnwebdocs.svg' alt='Linux' height='16'>|Frontend|[Blaze](http://blazejs.org/), Vanilla JS, [Web-Standards]()|
+|<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mdnwebdocs.svg' alt='Linux' height='16'>|Frontend|[Blaze](http://blazejs.org/),React, Vanilla JS, [Web-Standards]()|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='16'>|CSS|[Bootstrap](https://getbootstrap.com/)|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fontawesome.svg' alt='fontaweseome' height='16'>|Icons|[Font Awesome](https://fontawesome.com/)|
+|<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='mobile' height='16'>|Mobile|[React-Native](https://reactnative.dev/) + [Expo](https://expo.dev/)|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mocha.svg' alt='mocha' height='16'>|Testsuite|[Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/), [Sinon](https://sinonjs.org/), [nyc](https://istanbul.js.org/)|
 
 ## Read
