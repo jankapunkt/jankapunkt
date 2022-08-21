@@ -2,8 +2,16 @@
 
 My name is Jan Küster and I am all about JavaScript <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JavaScript' height='16'> + Meteor [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor' height='16'>](https://meteor.com)
 
-I love to work on projects, that are about education. Currently I work on [lea.online, a diagnostic and learning platform for German functional illiterates](https://github.com/leaonline). The target group are employed adults, which are limited in their career path due to low fundamental literacy skills.
-I am also a constant contributor around Meteor and it's packages ecosystem.
+I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German functional illiterates](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
+I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages).
+
+## Social
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Jan Küster on Twitter' height='40'>](https://twitter.com/kuester_jan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Jan Küster on LinkedIn' height='40'>](https://www.linkedin.com/in/jan-kuester/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Jan Küster on dev.to' height='40'>](https://dev.to/jankapunkt)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Jan Küster on StackOverflow' height='40'>](https://stackoverflow.com/users/3098783)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Jan Küster on the Meteor forums' height='40'>](https://forums.meteor.com/u/jkuester)
 
 ## Stack
 
@@ -37,6 +45,8 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
 [Async Meteor Method calls](https://dev.to/jankapunkt/async-meteor-method-calls-24f9)
+
+[Easy CRUD setup with Meteor in only 4 steps from scratch](https://dev.to/jankapunkt/easy-crud-setup-with-meteor-in-only-4-steps-from-scratch-4m9n)
 
 **Advanced**
 
@@ -79,11 +89,6 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
 [One-Liner Puzzle - Fill Array with indices](https://dev.to/jankapunkt/one-liner-puzzle-fill-array-with-indices-fk)
 
-
-## Social
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor forums profile' height='40'>](https://forums.meteor.com/u/jkuester)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jankapunkt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kuester_jan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3098783)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](jankuester.com)  
 
 ## Sponsor
 
