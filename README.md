@@ -5,6 +5,8 @@ My name is Jan Küster and I am all about JavaScript <img src='https://cdn.jsdel
 I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German functional illiterates](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
 I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages).
 
+[![@jankapunkt's Holopin board](https://holopin.io/api/user/board?user=jankapunkt)](https://holopin.io/@jankapunkt)
+
 ## Social
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Jan Küster on Twitter' height='40'>](https://twitter.com/kuester_jan)
@@ -95,8 +97,4 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 If you like my work and you want to support me, you can send me a tip via 
 
 - PayPal: https://paypal.me/kuesterjan
-- Bitcoin: bc1qr7qrsxddpavjg3zyuzfm4eza993wg4v72jedyn
-- Ravencoin: RAz6PYnD9Y4Dzd4nwHMjRi49HGdbjkdwAz
-- Cardano: addr1q9zmhg6dxq0jsptwfu07d9j3azs5a459u462ssa8yc04nuyzm9l0ma7rfqgp8v5q8ch86q36rp05s4ra8gu47kkwrg7q747s8d
-- Monero: 46f2nQQgQZeLF3TYpRXPenQSZ6EBTuBioTnhBhY5CfyNGQnpyrMwVhYNERLzDVoHzaYHN4jzqK85aV2PSJQvzAcDSBnrE9S
 
