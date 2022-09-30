@@ -92,7 +92,7 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 [One-Liner Puzzle - Fill Array with indices](https://dev.to/jankapunkt/one-liner-puzzle-fill-array-with-indices-fk)
 
 
-## Sponsor
+## Support my work
 
 If you like my work and you want to support me, you can send me a tip via 
 
