@@ -169,6 +169,8 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
 [Converting my OTF font into multiple web fonts with this bash script](https://dev.to/jankapunkt/converting-my-otf-font-into-multiple-web-fonts-with-this-bash-script-m1l)
 
+[All your JavaScript code is polluted](https://dev.to/jankapunkt/all-your-javascript-code-is-polluted-3e8l)
+
 [Prevent infinite loops in JavaScript](https://dev.to/jankapunkt/prevent-infinite-loops-in-javascript-4n5o)
 
 [ES6 classes with private members](https://dev.to/jankapunkt/es6-classes-with-private-members-144d)
