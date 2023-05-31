@@ -128,6 +128,28 @@ I am also a constant contributor around [Meteor](https://github.com/meteor/meteo
 
 This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
+### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='16'> Articles on JavaScript
+
+[How to mess up your JavaScript code like a boss **MUST READ**](https://dev.to/jankapunkt/how-to-mess-up-your-javascript-code-like-a-boss-pa9)
+
+[Make text fit its parent size using JavaScript](https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40)
+
+[Converting my OTF font into multiple web fonts with this bash script](https://dev.to/jankapunkt/converting-my-otf-font-into-multiple-web-fonts-with-this-bash-script-m1l)
+
+[All your JavaScript code is polluted](https://dev.to/jankapunkt/all-your-javascript-code-is-polluted-3e8l)
+
+[Prevent infinite loops in JavaScript](https://dev.to/jankapunkt/prevent-infinite-loops-in-javascript-4n5o)
+
+[ES6 classes with private members](https://dev.to/jankapunkt/es6-classes-with-private-members-144d)
+
+[Yet another NPM package template](https://dev.to/jankapunkt/yet-another-npm-package-template-270k)
+
+[How to write a great switch statement in JavaScript](https://dev.to/jankapunkt/how-to-write-a-great-switch-statement-in-javascript-265)
+
+[How stringify Proxy to JSON](https://dev.to/jankapunkt/how-stringify-proxy-to-json-10oe)
+
+[Stubbing jQuery with sinon](https://dev.to/jankapunkt/stubbin-jquery-with-sinon-adp)
+
 ### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='meteor' height='16'> Articles on Meteor
 
 **Beginners**
@@ -159,29 +181,6 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 [Microservices with Meteor](https://dev.to/jankapunkt/microservices-with-meteor-40la)
 
 [Meteor browser bundle and Node-Stubs - beware what you import ](https://dev.to/jankapunkt/meteor-browser-bundle-and-node-stubs-beware-what-you-import-342f)
-
-
-### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='16'> Articles on JavaScript
-
-[How to mess up your JavaScript code like a boss **MUST READ**](https://dev.to/jankapunkt/how-to-mess-up-your-javascript-code-like-a-boss-pa9)
-
-[Make text fit its parent size using JavaScript](https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40)
-
-[Converting my OTF font into multiple web fonts with this bash script](https://dev.to/jankapunkt/converting-my-otf-font-into-multiple-web-fonts-with-this-bash-script-m1l)
-
-[All your JavaScript code is polluted](https://dev.to/jankapunkt/all-your-javascript-code-is-polluted-3e8l)
-
-[Prevent infinite loops in JavaScript](https://dev.to/jankapunkt/prevent-infinite-loops-in-javascript-4n5o)
-
-[ES6 classes with private members](https://dev.to/jankapunkt/es6-classes-with-private-members-144d)
-
-[Yet another NPM package template](https://dev.to/jankapunkt/yet-another-npm-package-template-270k)
-
-[How to write a great switch statement in JavaScript](https://dev.to/jankapunkt/how-to-write-a-great-switch-statement-in-javascript-265)
-
-[How stringify Proxy to JSON](https://dev.to/jankapunkt/how-stringify-proxy-to-json-10oe)
-
-[Stubbing jQuery with sinon](https://dev.to/jankapunkt/stubbin-jquery-with-sinon-adp)
 
 
 
