@@ -142,13 +142,15 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
 [ES6 classes with private members](https://dev.to/jankapunkt/es6-classes-with-private-members-144d)
 
-[Yet another NPM package template](https://dev.to/jankapunkt/yet-another-npm-package-template-270k)
+[My opinionated JavaScript package template repository - zero config, start immediately](https://dev.to/jankapunkt/my-opinionated-javascript-package-template-repository-zero-config-start-immediately-5090)
 
 [How to write a great switch statement in JavaScript](https://dev.to/jankapunkt/how-to-write-a-great-switch-statement-in-javascript-265)
 
 [How stringify Proxy to JSON](https://dev.to/jankapunkt/how-stringify-proxy-to-json-10oe)
 
 [Stubbing jQuery with sinon](https://dev.to/jankapunkt/stubbin-jquery-with-sinon-adp)
+
+[Create a JavaScript Promise with timeout](https://dev.to/jankapunkt/create-a-javascript-promise-with-timeout-dmn)
 
 ### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='meteor' height='16'> Articles on Meteor
 
@@ -160,6 +162,9 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
 [Async Meteor Method calls](https://dev.to/jankapunkt/async-meteor-method-calls-24f9)
 
+[Meteor Blaze - single state helper for ReactiveDict ](https://dev.to/jankapunkt/meteor-blaze-single-state-helper-for-reactivedict-o2a)
+
+[Write isomorphic code in MeteorJs](https://dev.to/jankapunkt/write-isomorphic-code-in-meteorjs-19ko)
 
 **Tutorials**
 
@@ -190,15 +195,19 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
 [One-Liner Puzzle - Fill Array with indices](https://dev.to/jankapunkt/one-liner-puzzle-fill-array-with-indices-fk)
 
+[JavaScript puzzle oneliner - get unique values from list](https://dev.to/jankapunkt/javascript-puzzle-oneliner-get-unique-values-from-list-4iap)
 
-## Support my work
+[JavaScript code puzzle - can you call this function?](https://dev.to/jankapunkt/javascript-code-puzzle-can-you-call-this-function-4o2f)
 
-If you like my work and you want to support me, you can send me a tip via 
 
+## Support my work and articles
+
+- GitHub Sponsors: https://github.com/sponsors/jankapunkt
 - PayPal: https://paypal.me/kuesterjan
 
+<!--
 ## Badges I collected
 
 [![@jankapunkt's Holopin board](https://holopin.io/api/user/board?user=jankapunkt)](https://holopin.io/@jankapunkt)
-
+-->
 
