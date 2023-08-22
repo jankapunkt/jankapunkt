@@ -126,15 +126,15 @@ I am also a constant contributor around [Meteor](https://github.com/meteor/meteo
 
 ## Read
 
-This is a curatest list of some of my articles on [dev.to](https://dev.to/).
+These are curatest lists of some of my articles on [dev.to](https://dev.to/), the platform where I regularly publish insights, summaries and findings of my recent developmenmt work.
+Click on a section to expand and see all articles for it.
 
-### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='16'> Articles on JavaScript
+### General articles on JavaScript <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='16'>
 
-[How to mess up your JavaScript code like a boss **MUST READ**](https://dev.to/jankapunkt/how-to-mess-up-your-javascript-code-like-a-boss-pa9)
+<details>
+<summary>Fundamentals</summary>
 
-[Make text fit its parent size using JavaScript](https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40)
-
-[Converting my OTF font into multiple web fonts with this bash script](https://dev.to/jankapunkt/converting-my-otf-font-into-multiple-web-fonts-with-this-bash-script-m1l)
+[How to mess up your JavaScript code like a boss](https://dev.to/jankapunkt/how-to-mess-up-your-javascript-code-like-a-boss-pa9) **(THIS IS A MUST READ FOR ANY JS DEV!)**
 
 [All your JavaScript code is polluted](https://dev.to/jankapunkt/all-your-javascript-code-is-polluted-3e8l)
 
@@ -152,10 +152,34 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 
 [Create a JavaScript Promise with timeout](https://dev.to/jankapunkt/create-a-javascript-promise-with-timeout-dmn)
 
-### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='meteor' height='16'> Articles on Meteor
+</details>
 
-**Beginners**
+<details>
+<summary>Text, Fonts</summary>
 
+[Make text fit its parent size using JavaScript](https://dev.to/jankapunkt/make-text-fit-it-s-parent-size-using-javascript-m40)
+
+[Converting my OTF font into multiple web fonts with this bash script](https://dev.to/jankapunkt/converting-my-otf-font-into-multiple-web-fonts-with-this-bash-script-m1l)
+</details>
+
+<details>
+<summary>Coding Puzzles</summary>
+
+[Let's solve a one-liner code puzzle](https://dev.to/jankapunkt/let-s-solve-a-one-liner-code-puzzle-2351)
+
+[One-Liner Puzzle - Fill Array with indices](https://dev.to/jankapunkt/one-liner-puzzle-fill-array-with-indices-fk)
+
+[JavaScript puzzle oneliner - get unique values from list](https://dev.to/jankapunkt/javascript-puzzle-oneliner-get-unique-values-from-list-4iap)
+
+[JavaScript code puzzle - can you call this function?](https://dev.to/jankapunkt/javascript-code-puzzle-can-you-call-this-function-4o2f)
+</details>
+
+
+### Articles on Meteor <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='meteor' height='16'>
+
+<details>
+<summary>Beginners</summary>
+    
 [Why choose Meteor (or not) for your next project?](https://dev.to/jankapunkt/why-choose-meteor-or-not-for-your-next-project-1gnh)
 
 [Meteor 5 minutes setup for newcomers](https://dev.to/jankapunkt/meteor-5-minutes-setup-for-newcomers-1aga)
@@ -165,8 +189,10 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 [Meteor Blaze - single state helper for ReactiveDict ](https://dev.to/jankapunkt/meteor-blaze-single-state-helper-for-reactivedict-o2a)
 
 [Write isomorphic code in MeteorJs](https://dev.to/jankapunkt/write-isomorphic-code-in-meteorjs-19ko)
+</details>
 
-**Tutorials**
+<details>
+    <summary>Tutorials</summary>
 
 [Meteor and React Native - Create a native mobile app ](https://dev.to/jankapunkt/meteor-and-react-native-create-a-native-mobile-app-2ile)
 
@@ -177,27 +203,18 @@ This is a curatest list of some of my articles on [dev.to](https://dev.to/).
 [Meteor and standard lint](https://dev.to/jankapunkt/meteor-and-standard-lint-gg7)
 
 [Bootstrapping an Admin account in Meteor](https://dev.to/jankapunkt/bootstrapping-an-admin-account-in-meteor-408b)
+</details>
 
 
-**Advanced**
+<details>
+    <summary>Advanced</summary>
 
 [Plugin architecture with Meteor](https://dev.to/jankapunkt/plugin-architecture-with-meteor-4jl4)
 
 [Microservices with Meteor](https://dev.to/jankapunkt/microservices-with-meteor-40la)
 
 [Meteor browser bundle and Node-Stubs - beware what you import ](https://dev.to/jankapunkt/meteor-browser-bundle-and-node-stubs-beware-what-you-import-342f)
-
-
-
-### Articles with Coding-Puzzles
-
-[Let's solve a one-liner code puzzle](https://dev.to/jankapunkt/let-s-solve-a-one-liner-code-puzzle-2351)
-
-[One-Liner Puzzle - Fill Array with indices](https://dev.to/jankapunkt/one-liner-puzzle-fill-array-with-indices-fk)
-
-[JavaScript puzzle oneliner - get unique values from list](https://dev.to/jankapunkt/javascript-puzzle-oneliner-get-unique-values-from-list-4iap)
-
-[JavaScript code puzzle - can you call this function?](https://dev.to/jankapunkt/javascript-code-puzzle-can-you-call-this-function-4o2f)
+</details>
 
 
 ## Support my work and articles
