@@ -221,6 +221,7 @@ Click on a section to expand and see all articles for it.
 
 - GitHub Sponsors: https://github.com/sponsors/jankapunkt
 - PayPal: https://paypal.me/kuesterjan
+- Books I want to read (Amazon wishlist): https://www.amazon.de/hz/wishlist/ls/12YMIY0QNH9TK?ref_=wl_share
 
 <!--
 ## Badges I collected
