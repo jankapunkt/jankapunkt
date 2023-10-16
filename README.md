@@ -7,8 +7,7 @@ I am also a constant contributor around [Meteor](https://github.com/meteor/meteo
 
 ## Big thanks to my sponsors!
 
-<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/559305?s=60&amp;v=4" width="30" height="30" alt="@fredmaiaarantes">
-<img class="avatar" src="https://avatars.githubusercontent.com/u/63714073?s=60&amp;v=4" width="30" height="30" alt="@lytesoft">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/559305?s=60&amp;v=4" width="30" height="30" alt="@fredmaiaarantes"><img class="avatar" src="https://avatars.githubusercontent.com/u/63714073?s=60&amp;v=4" width="30" height="30" alt="@lytesoft">
 
 
 ## Social
