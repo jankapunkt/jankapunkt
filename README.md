@@ -5,6 +5,12 @@ My name is Jan Küster and I am all about JavaScript <img src='https://raw.githu
 I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German functional illiterates](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
 I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages).
 
+## Big thanks to my sponsors!
+
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/559305?s=60&amp;v=4" width="30" height="30" alt="@fredmaiaarantes">
+<img class="avatar" src="https://avatars.githubusercontent.com/u/63714073?s=60&amp;v=4" width="30" height="30" alt="@lytesoft">
+
+
 ## Social
 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Jan Küster on Twitter' height='40'>](https://twitter.com/kuester_jan)
