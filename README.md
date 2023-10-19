@@ -2,7 +2,7 @@
 
 My name is Jan Küster and I am all about JavaScript <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='JavaScript Icon' height='16'> and Meteor [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Meteor Icon' height='16'>](https://meteor.com)
 
-I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German functional illiterates](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
+I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German adults with low to very low literacy skills](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
 I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages).
 
 ## Big thanks to my sponsors!
