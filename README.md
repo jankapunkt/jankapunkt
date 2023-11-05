@@ -3,7 +3,9 @@
 My name is Jan Küster and I am all about JavaScript <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='JavaScript Icon' height='16'> and Meteor [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Meteor Icon' height='16'>](https://meteor.com)
 
 I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German adults with low to very low literacy skills](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
-I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages).
+
+I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages). 
+Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and Alim S. Gafar for the weekly [Meteor.js Community Podcast on YouTube](https://www.youtube.com/@meteorjscommunity).
 
 ## Big thanks to my sponsors!
 
@@ -17,11 +19,13 @@ I am also a constant contributor around [Meteor](https://github.com/meteor/meteo
 
 ## Social
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='Jan Küster on YouTube' height='40'>](https://www.youtube.com/@meteorjscommunity)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Jan Küster on dev.to' height='40'>](https://dev.to/jankapunkt)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Jan Küster on the Meteor forums' height='40'>](https://forums.meteor.com/u/jkuester)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Jan Küster on Twitter' height='40'>](https://twitter.com/kuester_jan)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Jan Küster on LinkedIn' height='40'>](https://www.linkedin.com/in/jan-kuester/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Jan Küster on dev.to' height='40'>](https://dev.to/jankapunkt)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Jan Küster on StackOverflow' height='40'>](https://stackoverflow.com/users/3098783)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Jan Küster on the Meteor forums' height='40'>](https://forums.meteor.com/u/jkuester)
+
 
 
 ## Stack
