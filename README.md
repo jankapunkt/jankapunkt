@@ -18,7 +18,9 @@ Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and
 <a href="https://github.com/meteor" title="https://github.com/meteor">
     <img class="avatar" src="https://avatars.githubusercontent.com/u/789528?s=200&v=4" width="30" height="30" alt="@lytesoft">
 </a>
-
+<a href="https://github.com/manueltimita" title="https://github.com/manueltimita">
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/4958941?s=70&v=4" width="30" height="30" alt="@lytesoft">
+</a>
 
 ## Social
 
