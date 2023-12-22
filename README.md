@@ -169,6 +169,8 @@ Click on a section to expand and see all articles for it.
 <details>
     <summary>Tutorials and Guides</summary>
 
+[Gradually upgrading a Meteor.js project to 3.0](https://dev.to/meteor/gradually-upgrading-a-meteorjs-project-to-30-5aj0)
+
 [Prepare your Meteor.js project for the big 3.0 release!](https://dev.to/jankapunkt/prepare-your-meteorjs-project-for-the-big-30-release-14bf)
 
 [Meteor and React Native - Create a native mobile app ](https://dev.to/jankapunkt/meteor-and-react-native-create-a-native-mobile-app-2ile)
