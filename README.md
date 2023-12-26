@@ -7,6 +7,14 @@ I love to work on projects, that are about education. I currently work on [lea.o
 I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages). 
 Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and Alim S. Gafar for the weekly [Meteor.js Community Podcast on YouTube](https://www.youtube.com/@meteorjscommunity).
 
+## Co-/maintaining Orgs
+
+- [Meteor React Native](https://github.com/meteorrn)
+- [Node-OAuth](https://github.com/node-oauth/)
+- [Meteor Community Packages](https://github.com/Meteor-Community-Packages/)
+- [lea.online](https://github.com/leaonline)
+
+  
 ## Big thanks to my sponsors!
 
 <a href="https://github.com/fredmaiaarantes" title="https://github.com/fredmaiaarantes">
