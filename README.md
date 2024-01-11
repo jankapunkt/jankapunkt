@@ -24,10 +24,16 @@ Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and
     <img class="avatar" src="https://avatars.githubusercontent.com/u/63714073?s=60&amp;v=4" width="30" height="30" alt="@lytesoft">
 </a>
 <a href="https://github.com/meteor" title="https://github.com/meteor">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/789528?s=200&v=4" width="30" height="30" alt="@lytesoft">
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/789528?s=200&v=4" width="30" height="30" alt="@meteor">
 </a>
 <a href="https://github.com/manueltimita" title="https://github.com/manueltimita">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/4958941?s=70&v=4" width="30" height="30" alt="@lytesoft">
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/4958941?s=70&v=4" width="30" height="30" alt="@manueltimita">
+</a>
+<a href="https://github.com/harryadel" title="https://github.com/harryadel">
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/6644545?s=70&v=4" width="30" height="30" alt="@harryadel">
+</a>
+<a href="https://github.com/harrisonhunter" title="https://github.com/harrisonhunter">
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/2695414?s=70&v=4" width="30" height="30" alt="@harrisonhunter">
 </a>
 
 ## Social
