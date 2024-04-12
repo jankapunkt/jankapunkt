@@ -35,6 +35,11 @@ Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and
 <a href="https://github.com/harrisonhunter" title="https://github.com/harrisonhunter">
     <img class="avatar" src="https://avatars.githubusercontent.com/u/2695414?s=70&v=4" width="30" height="30" alt="@harrisonhunter">
 </a>
+<a href="https://github.com/jaredloson" title="https://github.com/jaredloson">
+    <img class="avatar" src="https://avatars.githubusercontent.com/u/1671489?s=70&v=4" width="30" height="30" alt="@harrisonhunter">
+</a>
+
+
 
 ## Social
 
