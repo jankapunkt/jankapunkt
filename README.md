@@ -13,7 +13,7 @@ Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and
 [![@node-oauth - Node-OAuth](https://avatars.githubusercontent.com/u/92159871?s=64&v=4)](https://github.com/node-oauth/)
 [![Meteor Community Packages](https://avatars.githubusercontent.com/u/43753909?s=64&v=4)](https://github.com/Meteor-Community-Packages/)
 [![lea.online](https://avatars.githubusercontent.com/u/48286741?s=64&v=4)](https://github.com/leaonline)
-
+[![OpenQda](https://avatars.githubusercontent.com/u/153517223?s=64&v=4)](https://github.com/openqda)
   
 ## Big thanks to my sponsors!
 
