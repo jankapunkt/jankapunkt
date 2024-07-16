@@ -15,29 +15,10 @@ Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and
 [![lea.online](https://avatars.githubusercontent.com/u/48286741?s=64&v=4)](https://github.com/leaonline)
 [![OpenQda](https://avatars.githubusercontent.com/u/153517223?s=64&v=4)](https://github.com/openqda)
   
-## Big thanks to my sponsors!
 
-<a href="https://github.com/fredmaiaarantes" title="https://github.com/fredmaiaarantes">
-    <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/559305?s=60&amp;v=4" width="30" height="30" alt="@fredmaiaarantes">
-</a>
-<a href="https://github.com/lytesoft" title="https://github.com/lytesoft">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/63714073?s=60&amp;v=4" width="30" height="30" alt="@lytesoft">
-</a>
-<a href="https://github.com/meteor" title="https://github.com/meteor">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/789528?s=200&v=4" width="30" height="30" alt="@meteor">
-</a>
-<a href="https://github.com/manueltimita" title="https://github.com/manueltimita">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/4958941?s=70&v=4" width="30" height="30" alt="@manueltimita">
-</a>
-<a href="https://github.com/harryadel" title="https://github.com/harryadel">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/6644545?s=70&v=4" width="30" height="30" alt="@harryadel">
-</a>
-<a href="https://github.com/harrisonhunter" title="https://github.com/harrisonhunter">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/2695414?s=70&v=4" width="30" height="30" alt="@harrisonhunter">
-</a>
-<a href="https://github.com/jaredloson" title="https://github.com/jaredloson">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/1671489?s=70&v=4" width="30" height="30" alt="@harrisonhunter">
-</a>
+## Sponsors
+
+📢 At this point I want to shout out to all my current and former my sponsors! Big thanks for the trust and the support! ❤️
 
 
 
