@@ -1,20 +1,24 @@
 ## Hey there 👋
 
-My name is Jan Küster and I am all about JavaScript <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='JavaScript Icon' height='16'> and Meteor [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Meteor Icon' height='16'>](https://meteor.com)
+My name is Jan Küster and I am all about developing web applications.
 
-I love to work on projects, that are about education. I currently work on [lea.online, a diagnostic and learning platform for German adults with low to very low literacy skills](https://github.com/leaonline). The target group is employed adults, which are limited in their career path due to low fundamental literacy skills.
+I love to program in JavaScript <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='JavaScript Icon' height='16'> using Meteor [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Meteor Icon' height='16'>](https://meteor.com), but I also program in other languages, such as Python or PHP (and hopefully soon in Rust, too LOL).
 
-I am also a constant contributor around [Meteor](https://github.com/meteor/meteor) and it's [packages ecosystem](https://github.com/Meteor-Community-Packages). 
-Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and Alim S. Gafar for the weekly [Meteor.js Community Podcast on YouTube](https://www.youtube.com/@meteorjscommunity).
+I love to work on projects, that are about education and research software. Currently, most of my work efforts go into [OpenQDA, a free and sustainable collaborative software for qualitative data analysis](https://github.com/openqda/) and [lea.online, a diagnostic and learning platform for German adults with low to very low literacy skills](https://github.com/leaonline).
+
+Since 2016 I am using (and still loving ❤️) [Meteor](https://github.com/meteor/meteor) and I am regularly contributing to it's [community packages ecosystem](https://github.com/Meteor-Community-Packages). 
+From 2023 to 2026 I teamed up with [Storyteller CZ](https://github.com/storytellercz) and Alim S. Gafar for the weekly [Meteor.js Community Podcast on YouTube](https://www.youtube.com/@meteorjscommunity).
 
 ## Co-/maintaining Orgs
+
+> all of the following orgs are actively looking for contributors and maintainers
 
 [![@meteorrn - Meteor React Native](https://avatars.githubusercontent.com/u/67771176?s=64&v=4)](https://github.com/meteorrn)
 [![@node-oauth - Node-OAuth](https://avatars.githubusercontent.com/u/92159871?s=64&v=4)](https://github.com/node-oauth/)
 [![Meteor Community Packages](https://avatars.githubusercontent.com/u/43753909?s=64&v=4)](https://github.com/Meteor-Community-Packages/)
 [![lea.online](https://avatars.githubusercontent.com/u/48286741?s=64&v=4)](https://github.com/leaonline)
 [![OpenQda](https://avatars.githubusercontent.com/u/153517223?s=64&v=4)](https://github.com/openqda)
-  
+
 
 ## Sponsors
 
@@ -25,15 +29,13 @@ Recently I joined up with [Storyteller CZ](https://github.com/storytellercz) and
 ## Social
 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Jan Küster on LinkedIn' height='40'>](https://www.linkedin.com/in/jan-kuester/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='Jan Küster on YouTube' height='40'>](https://www.youtube.com/@meteorjscommunity)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Jan Küster on dev.to' height='40'>](https://dev.to/jankapunkt)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Jan Küster on the Meteor forums' height='40'>](https://forums.meteor.com/u/jkuester)
-[<img src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/bluesky/bluesky.svg" alt='Jan Küster on Bluesky' height='40'>](https://bsky.app/profile/jankapunkt.bsky.social)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='Jan Küster on YouTube' height='40'>](https://www.youtube.com/@meteorjscommunity)
 
 ## Read
 
-These are curatest lists of some of my articles on [dev.to](https://dev.to/), the platform where I regularly publish insights, summaries and findings of my recent developmenmt work.
+These are curatest lists of some of my articles on [dev.to](https://dev.to/), the platform where I publish insights, summaries and findings of my developmenmt work.
 Click on a section to expand and see all articles for it.
 
 ### Articles on Meteor <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='meteor' height='16'>
